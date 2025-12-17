@@ -5,17 +5,17 @@ project:
     - "static/**"
 
 code-annotations: select
-theme: [default, samy-theme.scss]
 
 website:
   title: "Knowledge sharing repo"
   navbar:
     left:
-    - href: index.qmd
-      text: Home
+      - href: index.qmd
+        text: Home
 
 format:
   html:
+    theme: [default, samy-theme.scss]
     author: "SAMY Data Science"
     code-copy: true
     code-block-bg: "#FFFFFF"
