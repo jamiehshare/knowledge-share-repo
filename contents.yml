@@ -5,3 +5,136 @@
   categories: [Methods & Techniques]
   description: "Dated overview of ABSA and aspect identification."
 
+- title: "Philosophy of (data) science"
+  author: "Jimbo"
+  path: "https://jamiehudson.quarto.pub/experimentation-guidelines-v2/"
+  date: 2025-01-01
+  categories: [Tools & Workflows, Meta/Strategy]
+  description: "Webpage with experimental guidelines"
+
+- title: "Topic Modelling Workflow"
+  author: "Jimbo"
+  path: "https://jamiehudson.quarto.pub/topic-modelling-workflow/#/title-slide"
+  date: 2025-02-01
+  categories: [Methods & Techniques, Tools & Workflows]
+  description: "Revealjs deck for LDA workflow"
+
+- title: "Sales Pitch Scrollytelling"
+  author: "Jimbo"
+  path: "https://jamiehudson.quarto.pub/sales_pitch_scrollytelling/"
+  date: 2022-09-01
+  categories: [Case Studies]
+  description: "Scrollytelling pitch collateral"
+
+- title: "Landscape Analysis (Scrollytelling)"
+  author: "Jimbo"
+  path: "https://jamiehudson.quarto.pub/landscape-analysis/"
+  date: 2024-11-01
+  categories: [Case Studies]
+  description: "Scrollytelling case study collateral"
+
+- title: "Closeread ABSA"
+  author: "Jimbo"
+  path: "https://rpubs.com/jamiehudson/1241915"
+  date: 2024-11-01
+  categories: [Case Studies]
+  description: "Scrollytelling ABSA collateral"
+
+- title: "Shannon Diversity"
+  author: "Jimbo"
+  path: "/Users/jamiehudson/Documents/work/ds_team"
+  path: "static/shannon_index.html"
+  date: 2025-11-01
+  categories: [Methods & Techniques]
+  description: "Brief primer on diversity metrics"
+
+- title: "Core Language Study Methodologies"
+  author: "Aoife"
+  path: "https://rpubs.com/aoiferyan/1206129"
+  date: 2024-07-01
+  categories: [Methods & Techniques, Project Case Studies]
+  description: "Case study for MSFT perception project, utilising dependency parsing"
+
+- title: "Spam Model Training Results"
+  author: "Aoife"
+  path: "https://rpubs.com/aoiferyan/1216756"
+  date: 2024-01-01
+  categories: [Tools & Workflows, Methods & Techniques]
+  description: "Misc results for Spam model training"
+
+- title: "Post Length Investigation"
+  author: "Aoife"
+  path: "https://rpubs.com/aoiferyan/1118522"
+  date: 2023-01-01
+  categories: [Tools & Workflows, Methods & Techniques]
+  description: "A look at how post length affects the results of LDA"
+
+- title: "BertopicR Power Hour"
+  author: "Aoife"
+  path: "https://rpubs.com/aoiferyan/1111306"
+  date: 2023-01-01
+  categories: [Tools & Workflows, Methods & Techniques]
+  description: "Dated material for BertopicR presentation"
+
+- title: "Chilean Travel Search Terms Analysis"
+  author: "Aoife"
+  path: "https://rpubs.com/aoiferyan/1140810"
+  date: 2023-01-01
+  categories: [Project Case Studies]
+  description: "Interactive dashboard for Chilean Travel project"
+
+- title: "spacyr Internal"
+  author: "Jack"
+  path: "https://rpubs.com/jpenzer_share/790466"
+  date: 2021-07-01
+  categories: [Methods & Techniques]
+  description: "Brief look into how spacy works in R"
+
+- title: "Comparing Topics & Subtopics at Scale"
+  author: "Jack"
+  path: "https://rpubs.com/jpenzer_share/1070558"
+  date: 2023-08-01
+  categories: [Tools & Workflows, Methods & Techniques]
+  description: "Look at hierarchical nature of topics identified with BERTopic"
+
+- title: "Dependency Parsing & Phrase Mining with udpipe"
+  author: "Jack"
+  path: "https://jpcapture.quarto.pub/dependency-parsing--phrase-mining-with-udpipe/"
+  date: 2023-08-01
+  categories: [Tools & Workflows, Methods & Techniques]
+  description: "Whistlestop tour of udpipe in R"
+
+- title: "Spanish Sentiment Algorithm"
+  author: "Jack"
+  path: "https://jpcapture.quarto.pub/spanish-sentiment-algorithm/"
+  # date: "unknown"
+  categories: [Methods & Techniques]
+  description: "Fine-tuning an alogorithm for sentiment in Spanish"
+  
+- title: "Big Think - Sharing Knowledge Collectively"
+  author: "Jack"
+  path: "https://jpcapture.quarto.pub/big-think---building-knowledge-collectively/"
+  # date: "unknown"
+  categories: [Meta/Strategy]
+  description: "A document about why we need to share knowledge."
+  
+- title: "How I used EndpointR"
+  author: "Jimbo"
+  path: "static/abinbev_ds_brand.html"
+  date: 2025-12-01
+  categories: [Tools & Workflows]
+  description: "Overly complicated doc showcasing a convoluted use case for EndpointR for understanding topics"
+
+- title: "AI in Social Research"
+  author: "Jack"
+  path: "https://jpcapture.quarto.pub/internal-check-in/"
+  date: 2024-01-01
+  categories: [Meta/Strategy, Tools & Workflows]
+  description: "An overview for how [SHARE] approached AI for research"
+
+- title: "DS&RI Resources"
+  author: "Jamie"
+  path: "https://jamiehshare.github.io/analyst_training_book/"
+  date: 2025-09-01
+  categories: [Meta/Strategy]
+  description: "Password protected website with some training resources for Analysts"

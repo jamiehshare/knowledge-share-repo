@@ -21,7 +21,7 @@ format:
     code-tools: true
     code-fold: true
     code-overflow: wrap
-    embed-resources: true
+    embed-resources: false
     fig-align: center
     highlight-style: tango
     link-external-icon: true
