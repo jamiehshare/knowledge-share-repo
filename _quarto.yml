@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  # output-dir: docs
   resources:
     - "static/**"
 
@@ -57,6 +57,7 @@ execute:
   eval: true
   echo: true
   include: true
+  freeze: true
 
 brand:
   _brand.yml
